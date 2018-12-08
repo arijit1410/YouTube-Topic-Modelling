@@ -12,3 +12,7 @@ Topic clustering of audio taken from youtube interviews.
 * SpeechRecognition==3.8.1
 * tqdm==4.19.5
 * uritemplate==3.0.0
+
+## Generating audio from youtube videos
+
+Run ``` video2audio.py ``` to generate a .wav file from the youtube video url. Change the url in the code accordingly.
