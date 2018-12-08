@@ -26,6 +26,10 @@ Use this command on your terminal.
 
 ``` ffmpeg -i source/genevieve.wav -f segment -segment_time 30 -c copy parts/out%09d.wav ```
 
+Run ``` transcribe.py ``` to convert all the audio files inside the parts/ folder to text. This is done using the SpeechRecognition module and Google's Speech API. 
+
+The transcript is generated inside transcripts/.
+
 ## Topic clustering
 
 Refer to ``` lda.ipynb ``` for a detailed explanation.
