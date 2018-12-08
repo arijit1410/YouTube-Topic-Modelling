@@ -1,0 +1,12 @@
+{
+  "type": " ",
+  "project_id": " ",
+  "private_key_id": " ",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCuwpQ6x/LZhTuF\nQSqxzOWzzhGtlhl8rA/srwDPOZi09AXmeCQEmidHduZeorAD5rqkFERrwGVWkOee\nD0xGtQ6GD9aCyQzm+qJnhSjuQizQYjN2hKZ5QNTpcDA64CD1bBoPKObHhHj6TfAu\nQH8kfMAQeLuUlR1jP180kQUpGx0/TS+DozgPfewZ5MvVGjjxWoyRFnJP\nEvoSJRbjmsCXfT3c1aX2JWuMhvt+YjLV7UCGzWgHr+wp6hI1lPiNwUNFAoGAUOSR\nwlZW5tcpJndq/R4/gIPjppRb5FfNuGY5kxsWzCbs+pVLu6r3vDgLHYkcFcbrTSqO\nSfmiGUYjGZvcxFb2tE4Bgm+ZZ6zj/en8zcQ82ZXwPcionv+97Sx3LKdMgfkNipLR\n6yhlO5tjC+gZu4adYudHrw7UliaC8RFYTusO+CECgYBeMSbFT4OEgLDD4hXr1r6W\niYLCEh2qND6WzGDyPYlC7YUN7iKt2/fxcmZPM7iItpw9wnCuoi0Qwfb0JVxb8ecN\nBXx5bAZ8EGlzl4OwJf3HWR1ldbd0IK810S2tDgPk5J35Ax/nKnljOLFCTr/V8744\nlNlHGCazwu9m2Ib7Csp1Ug==\n-----END PRIVATE KEY-----\n",
+  "client_email": "projectagc@robust-root-224510.iam.gserviceaccount.com",
+  "client_id": " ",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projectagc%40robust-root-224510.iam.gserviceaccount.com"
+}

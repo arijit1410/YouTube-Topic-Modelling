@@ -1,0 +1,1 @@
+ffmpeg -i source/genevieve.wav -f segment -segment_time 30 -c copy parts/out%09d.wav
